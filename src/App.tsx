@@ -18,7 +18,7 @@ export default function App() {
   }
 
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center bg-[#282c34] p-8">
+    <div className="flex min-h-screen flex-col items-center justify-center bg-[#3c3c3c] p-8">
       <Button variant="contained" onClick={handleClick}>
         MUI
         <CelebrationIcon />
